@@ -1,7 +1,7 @@
 import pygame
 import random
-from Project1 import AStar
-from Project1 import AStarLast
+import AStar
+import AStarLast
 pygame.init()
 
 display_width = 600
